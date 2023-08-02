@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-MODEL="TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ"
+MODEL="TheBloke_airoboros-65B-gpt4-1.4-GPTQ"
 
 echo "Worker Initiated"
 

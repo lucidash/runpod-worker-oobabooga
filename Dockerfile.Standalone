@@ -1,6 +1,6 @@
 FROM nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 
-ARG MODEL="TheBloke/Pygmalion-13B-SuperHOT-8K-GPTQ"
+ARG MODEL="TheBloke/airoboros-65B-gpt4-1.4-GPTQ"
 
 ENV DEBIAN_FRONTEND=noninteractive \
     PIP_PREFER_BINARY=1 \
